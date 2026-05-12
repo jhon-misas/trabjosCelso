@@ -21,6 +21,8 @@ Publicar mensajes con fecha automática
 
 Agregar y ver amigos (usando estructura de grafo)
 
+Eliminar usuario(Elimina sus publicaciones y las amistades)
+
 Visualización de publicaciones en tarjetas
 
 
